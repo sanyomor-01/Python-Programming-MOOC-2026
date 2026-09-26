@@ -3,7 +3,7 @@
 # from the shortest to the longest. 
 
 # solution
-word =  'Mimi'#input('Word: ')
+word =  input('Word: ')
 count = 1
 
 while count <= len(word):
