@@ -7,3 +7,11 @@ checksum = "914d5ec210005a85b2e209cb9fd3ecd1"
 [exercises.part04-02_line]
 id = 306351
 checksum = "8f3e2a6d3b05017ddb353b9dd30e2916"
+
+[exercises.part04-03_box_of_hashes]
+id = 306388
+checksum = "e2344900b9027bdeaf682e8317c05541"
+
+[exercises.part04-04_square_of_hashes]
+id = 306382
+checksum = "d9d8d94bed3d8fbbafa457dc3269c51a"
