@@ -15,3 +15,7 @@ checksum = "e2344900b9027bdeaf682e8317c05541"
 [exercises.part04-04_square_of_hashes]
 id = 306382
 checksum = "d9d8d94bed3d8fbbafa457dc3269c51a"
+
+[exercises.part04-05_square]
+id = 306358
+checksum = "1a9fdf76cc976fff65d9d3a00fa628ce"
