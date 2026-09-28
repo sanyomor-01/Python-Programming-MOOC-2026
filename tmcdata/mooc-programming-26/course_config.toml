@@ -23,3 +23,7 @@ checksum = "1a9fdf76cc976fff65d9d3a00fa628ce"
 [exercises.part04-06_triangle]
 id = 306367
 checksum = "0504289dc919e12378bec88f1e9f6b29"
+
+[exercises.part04-07_shape]
+id = 306381
+checksum = "1d7b0fcc5dfca98367f4d35c00dabbe1"
