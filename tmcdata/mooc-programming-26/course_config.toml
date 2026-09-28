@@ -3,3 +3,7 @@ course = "mooc-programming-26"
 [exercises.part04-01_hello_visual_studio_code]
 id = 306356
 checksum = "914d5ec210005a85b2e209cb9fd3ecd1"
+
+[exercises.part04-02_line]
+id = 306351
+checksum = "8f3e2a6d3b05017ddb353b9dd30e2916"
