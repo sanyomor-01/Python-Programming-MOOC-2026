@@ -27,3 +27,7 @@ checksum = "0504289dc919e12378bec88f1e9f6b29"
 [exercises.part04-07_shape]
 id = 306381
 checksum = "1d7b0fcc5dfca98367f4d35c00dabbe1"
+
+[exercises.part04-08_spruce]
+id = 306363
+checksum = "0d85eb4acfc6e0188f644070453938cc"
