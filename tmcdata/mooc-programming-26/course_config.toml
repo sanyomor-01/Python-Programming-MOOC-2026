@@ -47,3 +47,7 @@ checksum = "cd0025ff4dd5398dac11a58c46e114ad"
 [exercises.part04-12_change_value_of_item]
 id = 306379
 checksum = "f132e43b40eb73c19903861d29d1ad88"
+
+[exercises.part04-13_add_items_to_list]
+id = 306386
+checksum = "a8a3ff41e825a3c0e2e37e8211147da5"
