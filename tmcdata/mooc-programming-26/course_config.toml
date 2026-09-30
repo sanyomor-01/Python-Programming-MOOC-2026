@@ -31,3 +31,7 @@ checksum = "1d7b0fcc5dfca98367f4d35c00dabbe1"
 [exercises.part04-08_spruce]
 id = 306363
 checksum = "0d85eb4acfc6e0188f644070453938cc"
+
+[exercises.part04-09_greatest_number]
+id = 306378
+checksum = "0147b6c047ecd9ad57093aa7ec4cf7c4"
