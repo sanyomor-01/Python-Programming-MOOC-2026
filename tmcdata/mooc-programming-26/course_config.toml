@@ -43,3 +43,7 @@ checksum = "c04232a3b25b64d7ff41bfc4c06c0642"
 [exercises.part04-11_first_second_last]
 id = 306369
 checksum = "cd0025ff4dd5398dac11a58c46e114ad"
+
+[exercises.part04-12_change_value_of_item]
+id = 306379
+checksum = "f132e43b40eb73c19903861d29d1ad88"
