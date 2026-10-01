@@ -51,3 +51,7 @@ checksum = "f132e43b40eb73c19903861d29d1ad88"
 [exercises.part04-13_add_items_to_list]
 id = 306386
 checksum = "a8a3ff41e825a3c0e2e37e8211147da5"
+
+[exercises.part04-14_addition_and_removal]
+id = 306360
+checksum = "eadc8c732eceae6d18e5d3b59baeabfc"
