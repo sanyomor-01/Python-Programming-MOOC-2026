@@ -59,3 +59,7 @@ checksum = "eadc8c732eceae6d18e5d3b59baeabfc"
 [exercises.part04-15_same_word_twice]
 id = 306368
 checksum = "fe47d1a7f039e320ab31315b54f41e25"
+
+[exercises.part04-16_list_twice]
+id = 306357
+checksum = "a5b8cd167834ad1a40afde3cc49771ae"
