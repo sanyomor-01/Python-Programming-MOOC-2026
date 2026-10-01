@@ -55,3 +55,7 @@ checksum = "a8a3ff41e825a3c0e2e37e8211147da5"
 [exercises.part04-14_addition_and_removal]
 id = 306360
 checksum = "eadc8c732eceae6d18e5d3b59baeabfc"
+
+[exercises.part04-15_same_word_twice]
+id = 306368
+checksum = "fe47d1a7f039e320ab31315b54f41e25"
