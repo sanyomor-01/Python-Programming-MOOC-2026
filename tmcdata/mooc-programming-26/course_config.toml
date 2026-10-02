@@ -99,3 +99,7 @@ checksum = "42e787c35ab5153a3b153f0c373cb568"
 [exercises.part04-25_sum_of_positives]
 id = 306375
 checksum = "1fe14ad751d7c70de452fae05886f914"
+
+[exercises.part04-26_even_numbers]
+id = 306373
+checksum = "ff94e35d6b677477a2b1608f5e22589a"
