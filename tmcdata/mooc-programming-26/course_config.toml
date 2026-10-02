@@ -87,3 +87,7 @@ checksum = "239ad442ed484e0b5493180ff8c2f8d2"
 [exercises.part04-22_list_of_stars]
 id = 306361
 checksum = "6d19315499f7a28b0b0889da3009a649"
+
+[exercises.part04-23_anagrams]
+id = 306384
+checksum = "a53b024139b4793af0353f7536790425"
