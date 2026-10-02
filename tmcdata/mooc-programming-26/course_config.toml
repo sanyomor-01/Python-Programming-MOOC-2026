@@ -83,3 +83,7 @@ checksum = "4bb5153b48c4ef5bce600247ef8e366f"
 [exercises.part04-21_negative_to_positive]
 id = 306385
 checksum = "239ad442ed484e0b5493180ff8c2f8d2"
+
+[exercises.part04-22_list_of_stars]
+id = 306361
+checksum = "6d19315499f7a28b0b0889da3009a649"
