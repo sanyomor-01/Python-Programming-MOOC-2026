@@ -75,3 +75,7 @@ checksum = "f0466f1991de9c3db00789f82b9a1c17"
 [exercises.part04-19_range_of_list]
 id = 306362
 checksum = "9bb5bd6457e892061b0e7f240cbf976e"
+
+[exercises.part04-20_star_studded]
+id = 306380
+checksum = "4bb5153b48c4ef5bce600247ef8e366f"
