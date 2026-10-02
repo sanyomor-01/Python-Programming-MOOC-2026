@@ -67,3 +67,7 @@ checksum = "a5b8cd167834ad1a40afde3cc49771ae"
 [exercises.part04-17_length_of_list]
 id = 306353
 checksum = "93f01fb86508df8e1593faf8f75ddb75"
+
+[exercises.part04-18_mean]
+id = 306364
+checksum = "f0466f1991de9c3db00789f82b9a1c17"
