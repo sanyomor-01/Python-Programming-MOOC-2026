@@ -71,3 +71,7 @@ checksum = "93f01fb86508df8e1593faf8f75ddb75"
 [exercises.part04-18_mean]
 id = 306364
 checksum = "f0466f1991de9c3db00789f82b9a1c17"
+
+[exercises.part04-19_range_of_list]
+id = 306362
+checksum = "9bb5bd6457e892061b0e7f240cbf976e"
