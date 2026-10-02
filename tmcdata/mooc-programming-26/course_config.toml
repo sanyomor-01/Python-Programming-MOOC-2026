@@ -91,3 +91,7 @@ checksum = "6d19315499f7a28b0b0889da3009a649"
 [exercises.part04-23_anagrams]
 id = 306384
 checksum = "a53b024139b4793af0353f7536790425"
+
+[exercises.part04-24_palindromes]
+id = 306377
+checksum = "42e787c35ab5153a3b153f0c373cb568"
