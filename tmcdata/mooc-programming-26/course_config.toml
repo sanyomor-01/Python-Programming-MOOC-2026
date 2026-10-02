@@ -95,3 +95,7 @@ checksum = "a53b024139b4793af0353f7536790425"
 [exercises.part04-24_palindromes]
 id = 306377
 checksum = "42e787c35ab5153a3b153f0c373cb568"
+
+[exercises.part04-25_sum_of_positives]
+id = 306375
+checksum = "1fe14ad751d7c70de452fae05886f914"
