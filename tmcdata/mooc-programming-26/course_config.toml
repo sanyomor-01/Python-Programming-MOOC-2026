@@ -107,3 +107,7 @@ checksum = "ff94e35d6b677477a2b1608f5e22589a"
 [exercises.part04-27_sum_of_lists]
 id = 306374
 checksum = "8c3e1eb7e96e15b3c1c34cbc1c1a9c8c"
+
+[exercises.part04-28_distinct_numbers]
+id = 306366
+checksum = "1b44f7e6ba7f4821566fc3cd764d75fd"
