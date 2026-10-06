@@ -123,3 +123,7 @@ checksum = "9a218c3de1ccf93a87d1784f188e3d1b"
 [exercises.part04-31_all_longest_in_list]
 id = 306359
 checksum = "43d2fd961e454effb6d300a8935647e9"
+
+[exercises.part04-32_integers_to_strings]
+id = 306354
+checksum = "6d55e564701bef4da6bbac21b55fe2e5"
