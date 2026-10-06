@@ -119,3 +119,7 @@ checksum = "f4ca93249d4d9b09252c6f047921f2d0"
 [exercises.part04-30_shortest_in_list]
 id = 306365
 checksum = "9a218c3de1ccf93a87d1784f188e3d1b"
+
+[exercises.part04-31_all_longest_in_list]
+id = 306359
+checksum = "43d2fd961e454effb6d300a8935647e9"
