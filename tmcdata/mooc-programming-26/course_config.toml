@@ -143,3 +143,7 @@ checksum = "3416dae84aea4bdbc7dcdca9b046f68f"
 [exercises.part04-36_no_shouting_allowed]
 id = 306372
 checksum = "52158dc06dd9a7caf635528379c8e2a7"
+
+[exercises.part04-37_neighbours_in_list]
+id = 306376
+checksum = "8be2192284a7742bd34787d73f717d2b"
