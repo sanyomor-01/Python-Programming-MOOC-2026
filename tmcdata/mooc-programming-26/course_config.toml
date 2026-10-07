@@ -127,3 +127,7 @@ checksum = "43d2fd961e454effb6d300a8935647e9"
 [exercises.part04-32_integers_to_strings]
 id = 306354
 checksum = "6d55e564701bef4da6bbac21b55fe2e5"
+
+[exercises.part04-33_everything_reversed]
+id = 306371
+checksum = "573528e2be2c723f95960a10709a81d6"
