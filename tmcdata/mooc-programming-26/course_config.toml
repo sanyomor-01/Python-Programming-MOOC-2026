@@ -135,3 +135,7 @@ checksum = "573528e2be2c723f95960a10709a81d6"
 [exercises.part04-34_most_common_character]
 id = 306383
 checksum = "5bf87be93e37895897f6927d8f1985c1"
+
+[exercises.part04-35_no_vowels_allowed]
+id = 306370
+checksum = "3416dae84aea4bdbc7dcdca9b046f68f"
