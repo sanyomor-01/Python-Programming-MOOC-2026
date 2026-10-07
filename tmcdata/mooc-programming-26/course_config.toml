@@ -131,3 +131,7 @@ checksum = "6d55e564701bef4da6bbac21b55fe2e5"
 [exercises.part04-33_everything_reversed]
 id = 306371
 checksum = "573528e2be2c723f95960a10709a81d6"
+
+[exercises.part04-34_most_common_character]
+id = 306383
+checksum = "5bf87be93e37895897f6927d8f1985c1"
