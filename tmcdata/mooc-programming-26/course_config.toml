@@ -147,3 +147,7 @@ checksum = "52158dc06dd9a7caf635528379c8e2a7"
 [exercises.part04-37_neighbours_in_list]
 id = 306376
 checksum = "8be2192284a7742bd34787d73f717d2b"
+
+[exercises.part04-38_grade_statistics]
+id = 306355
+checksum = "e1984de59716303252ba1ec8fa02d90e"
