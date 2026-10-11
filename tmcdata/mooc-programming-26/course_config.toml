@@ -151,3 +151,7 @@ checksum = "8be2192284a7742bd34787d73f717d2b"
 [exercises.part04-38_grade_statistics]
 id = 306355
 checksum = "e1984de59716303252ba1ec8fa02d90e"
+
+[exercises.part05-01_longest_string]
+id = 306319
+checksum = "1c8996da8c4581eceb4b51c9f1508fcf"
