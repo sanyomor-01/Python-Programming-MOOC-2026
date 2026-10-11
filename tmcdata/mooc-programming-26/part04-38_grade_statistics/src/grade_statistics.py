@@ -1,7 +1,10 @@
 # Write your solution here
 # user inputs
-total_pts = 0
 stats = []
+point_sum = 0
+passed = 0
+grade_count = [0, 0, 0, 0, 0, 0]
+
 while True:
     user_input = input('Exams points and exercises completed: ')
 
@@ -13,7 +16,7 @@ while True:
 
 # exercise points
 def exercise_points(exercises: int):
-    exercises // 10
+    return exercises // 10
 
 
 # calculating the grade
@@ -35,4 +38,29 @@ def calculate_grad(exam_pts, exercise_pts):
         return 4
     else:
         return 5
-    
+
+def grade_distribution(grades):
+    for grade in range(5, -1, -1):
+        print(f'{grade}: {"*" * grades[grade]}')
+
+
+for exam_points, exercises in stats:
+    exercise_pts = exercise_points(exercises)
+
+    total_pts = exam_points + exercise_pts
+    grade = calculate_grad(exam_points, exercise_pts)
+    point_sum += total_pts
+
+    if grade >0:
+        passed += 1
+
+    grade_count[grade] += 1
+
+average = point_sum / len(stats)
+pass_pct = passed / len(stats) * 100
+
+print('Statistics:')
+print(f'Points average: {average:.1f}')
+print(f'Pass percentage: {pass_pct:.1f}')
+print('Grade distribution:')
+grade_distribution(grade_count)
