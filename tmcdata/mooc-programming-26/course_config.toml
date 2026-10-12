@@ -159,3 +159,7 @@ checksum = "1c8996da8c4581eceb4b51c9f1508fcf"
 [exercises.part05-02_number_of_elements]
 id = 306324
 checksum = "2377dc13f035bffd59c69797449776e2"
+
+[exercises.part05-03_go]
+id = 306337
+checksum = "f5bc87accd861e75b5d7483cd3b2b367"
