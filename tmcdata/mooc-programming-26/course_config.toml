@@ -183,3 +183,7 @@ checksum = "b3e495e40530f0ce6f36f61f9189f7b2"
 [exercises.part05-08_items_multiplied_by_two]
 id = 306312
 checksum = "9b77963e77f9034db0d39021f97b2f57"
+
+[exercises.part05-09_remove_smallest]
+id = 306322
+checksum = "4d68b9c85e008a29f8fccd3f200af965"
