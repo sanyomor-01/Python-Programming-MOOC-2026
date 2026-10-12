@@ -155,3 +155,7 @@ checksum = "e1984de59716303252ba1ec8fa02d90e"
 [exercises.part05-01_longest_string]
 id = 306319
 checksum = "1c8996da8c4581eceb4b51c9f1508fcf"
+
+[exercises.part05-02_number_of_elements]
+id = 306324
+checksum = "2377dc13f035bffd59c69797449776e2"
