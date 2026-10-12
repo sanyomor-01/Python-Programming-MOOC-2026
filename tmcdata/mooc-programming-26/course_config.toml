@@ -167,3 +167,7 @@ checksum = "f5bc87accd861e75b5d7483cd3b2b367"
 [exercises.part05-04_sudoku_row]
 id = 306320
 checksum = "9536873ba7986058a7eb65ee648fdf9f"
+
+[exercises.part05-05_sudoku_column]
+id = 306328
+checksum = "4204da9fb183be2862c2dc6f7388aa94"
