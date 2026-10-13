@@ -4,7 +4,7 @@ def print_sudoku(sudoku: list):
             print()
         for col in range(9):
             if col > 0 and col % 3 == 0:
-                print(' ', end = ' ')
+                print(' ', end = '')
 
             value = sudoku[row][col]
             if value == 0:
@@ -12,6 +12,9 @@ def print_sudoku(sudoku: list):
             else:
                 print(value, end = ' ')
         print()
+
+def  add_number(sudoku: list, row_no: int, column_no: int, number:int):
+    sudoku[row_no][column_no] = number
 
 if __name__ == "__main__":
     sudoku  = [
@@ -27,10 +30,10 @@ if __name__ == "__main__":
     ]
 
     print_sudoku(sudoku)
-    # add_number(sudoku, 0, 0, 2)
-    # add_number(sudoku, 1, 2, 7)
-    # add_number(sudoku, 5, 7, 3)
-    # print()
-    # print("Three numbers added:")
-    # print()
-    # print_sudoku(sudoku)
+    add_number(sudoku, 0, 0, 2)
+    add_number(sudoku, 1, 2, 7)
+    add_number(sudoku, 5, 7, 3)
+    print()
+    print("Three numbers added:")
+    print()
+    print_sudoku(sudoku)
