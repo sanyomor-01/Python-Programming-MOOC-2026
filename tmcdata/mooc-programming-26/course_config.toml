@@ -191,3 +191,7 @@ checksum = "4d68b9c85e008a29f8fccd3f200af965"
 [exercises.part05-10_sudoku_print_and_add]
 id = 306338
 checksum = "c13363c0c8ae25499ac3fcb29c68db93"
+
+[exercises.part05-11_sudoku_add_to_copy]
+id = 306333
+checksum = "295d6053f4b7094174f0753d75326907"
