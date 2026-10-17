@@ -203,3 +203,7 @@ checksum = "94b169b82fd3f8aa2cdf44d4b9d2a921"
 [exercises.part05-13_transpose_matrix]
 id = 306336
 checksum = "c66720a19e1de6c84b589c8d6c96df51"
+
+[exercises.part05-14_times_ten]
+id = 306334
+checksum = "56be9c0a1aac7a7439db7ea22620577d"
