@@ -211,3 +211,7 @@ checksum = "56be9c0a1aac7a7439db7ea22620577d"
 [exercises.part05-15_factorials]
 id = 306321
 checksum = "37990afadf65b45e3a69144a327ecb79"
+
+[exercises.part05-16_histogram]
+id = 306329
+checksum = "f23d5493419cb22983d9a443bf78ad8d"
