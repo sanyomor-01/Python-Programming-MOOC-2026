@@ -207,3 +207,7 @@ checksum = "c66720a19e1de6c84b589c8d6c96df51"
 [exercises.part05-14_times_ten]
 id = 306334
 checksum = "56be9c0a1aac7a7439db7ea22620577d"
+
+[exercises.part05-15_factorials]
+id = 306321
+checksum = "37990afadf65b45e3a69144a327ecb79"
