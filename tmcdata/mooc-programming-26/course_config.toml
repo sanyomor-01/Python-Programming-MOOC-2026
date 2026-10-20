@@ -215,3 +215,7 @@ checksum = "37990afadf65b45e3a69144a327ecb79"
 [exercises.part05-16_histogram]
 id = 306329
 checksum = "f23d5493419cb22983d9a443bf78ad8d"
+
+[exercises.part05-17_phone_book_v1]
+id = 306314
+checksum = "912044e0778ab65c260c0d769b475e36"
