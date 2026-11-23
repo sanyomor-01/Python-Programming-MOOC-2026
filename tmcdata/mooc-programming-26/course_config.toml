@@ -223,3 +223,7 @@ checksum = "912044e0778ab65c260c0d769b475e36"
 [exercises.part05-18_phone_book_v2]
 id = 306317
 checksum = "e270f6176a06d86817b88bf187a7031c"
+
+[exercises.part05-19_invert_dictionary]
+id = 306315
+checksum = "fab1d4ce50545398faf500d73cc87f10"
