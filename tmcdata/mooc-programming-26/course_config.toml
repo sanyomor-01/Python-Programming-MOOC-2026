@@ -227,3 +227,7 @@ checksum = "e270f6176a06d86817b88bf187a7031c"
 [exercises.part05-19_invert_dictionary]
 id = 306315
 checksum = "fab1d4ce50545398faf500d73cc87f10"
+
+[exercises.part05-20_numbers_spelled_out]
+id = 306318
+checksum = "f791c8571242587a2a3f521d7144435d"
