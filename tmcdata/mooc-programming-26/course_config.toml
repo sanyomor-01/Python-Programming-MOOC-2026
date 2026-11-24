@@ -231,3 +231,7 @@ checksum = "fab1d4ce50545398faf500d73cc87f10"
 [exercises.part05-20_numbers_spelled_out]
 id = 306318
 checksum = "f791c8571242587a2a3f521d7144435d"
+
+[exercises.part05-21_movie_database]
+id = 306332
+checksum = "8ca07dc5c92259808cc8ddb1fbf436b7"
