@@ -243,3 +243,7 @@ checksum = "2c2cbc2866d3efb4fb2aff33dda57e27"
 [exercises.part05-23_create_tuple]
 id = 306331
 checksum = "0edb8e60ff8c5477eb4d9e057814532e"
+
+[exercises.part05-24_oldest_person]
+id = 306313
+checksum = "ebd05a5fd779a3b4526456cd39e65a01"
