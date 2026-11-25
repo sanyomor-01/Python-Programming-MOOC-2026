@@ -247,3 +247,7 @@ checksum = "0edb8e60ff8c5477eb4d9e057814532e"
 [exercises.part05-24_oldest_person]
 id = 306313
 checksum = "ebd05a5fd779a3b4526456cd39e65a01"
+
+[exercises.part05-25_older_people]
+id = 306326
+checksum = "e5b3b8e0e86020f48edf403686076536"
