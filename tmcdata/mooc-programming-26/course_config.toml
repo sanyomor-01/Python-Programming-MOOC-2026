@@ -239,3 +239,7 @@ checksum = "8ca07dc5c92259808cc8ddb1fbf436b7"
 [exercises.part05-22_find_movies]
 id = 306323
 checksum = "2c2cbc2866d3efb4fb2aff33dda57e27"
+
+[exercises.part05-23_create_tuple]
+id = 306331
+checksum = "0edb8e60ff8c5477eb4d9e057814532e"
