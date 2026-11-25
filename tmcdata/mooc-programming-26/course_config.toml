@@ -235,3 +235,7 @@ checksum = "f791c8571242587a2a3f521d7144435d"
 [exercises.part05-21_movie_database]
 id = 306332
 checksum = "8ca07dc5c92259808cc8ddb1fbf436b7"
+
+[exercises.part05-22_find_movies]
+id = 306323
+checksum = "2c2cbc2866d3efb4fb2aff33dda57e27"
