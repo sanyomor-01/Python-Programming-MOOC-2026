@@ -255,3 +255,7 @@ checksum = "e5b3b8e0e86020f48edf403686076536"
 [exercises.part05-26_student_database]
 id = 306335
 checksum = "772044136c79bbccfea1035e6bf2a7d1"
+
+[exercises.part05-27_letter_square]
+id = 306330
+checksum = "fdd20e535e47a623ee84e37724ad3693"

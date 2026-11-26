@@ -67,6 +67,5 @@ def summary(students: dict):
             student_with_best_average = student
 
         
-        
     print(f'most courses completed {most_courses} {student_with_most_courses}')
     print(f'best average grade {best_average} {student_with_best_average}')
