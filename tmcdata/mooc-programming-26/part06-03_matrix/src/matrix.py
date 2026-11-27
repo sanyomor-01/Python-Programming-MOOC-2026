@@ -16,3 +16,19 @@ def read_file():
 
         return database
 
+# Summing rows
+def row_sums():
+    results_of_each_row = []
+    
+    
+    data = read_file()
+    for row in data:
+        accummulator = 0
+        for number in row:
+            accummulator += number
+    
+        results_of_each_row.append(accummulator)
+    return results_of_each_row
+
+
+
