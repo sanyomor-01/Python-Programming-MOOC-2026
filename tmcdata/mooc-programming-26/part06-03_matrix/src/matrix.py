@@ -30,5 +30,14 @@ def row_sums():
         results_of_each_row.append(accummulator)
     return results_of_each_row
 
+# matrix sum
+def matrix_sum():
+    results = 0
 
+    data = row_sums()
+    for row_sum in data:
+        results += row_sum
 
+    return results
+
+print(matrix_sum())
