@@ -267,3 +267,7 @@ checksum = "1dfa2e7334b3d8162905aa09936d261a"
 [exercises.part06-02_fruit_market]
 id = 306441
 checksum = "bf55476f14ca68c4c33d0344649a5c96"
+
+[exercises.part06-03_matrix]
+id = 306437
+checksum = "bf9f8686347d7e7ef5edea699279d1f8"
