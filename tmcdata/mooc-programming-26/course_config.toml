@@ -259,3 +259,7 @@ checksum = "772044136c79bbccfea1035e6bf2a7d1"
 [exercises.part05-27_letter_square]
 id = 306330
 checksum = "fdd20e535e47a623ee84e37724ad3693"
+
+[exercises.part06-01_largest_number]
+id = 306455
+checksum = "1dfa2e7334b3d8162905aa09936d261a"
