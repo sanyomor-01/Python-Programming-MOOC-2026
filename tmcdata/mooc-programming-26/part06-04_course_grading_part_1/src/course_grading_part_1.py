@@ -1,6 +1,9 @@
+student_info = input("Student information: ")
+exercise_data = input("Exercises completed: ")
+
 students = {}
 
-with open('students1.csv') as std_file:
+with open(student_info) as std_file:
     for line in std_file:
         line = line.strip()
 
@@ -15,7 +18,7 @@ with open('students1.csv') as std_file:
 
 exercise_info = {}
 
-with open('exercises1.csv') as exe_file:
+with open(exercise_data) as exe_file:
     # data cleaning
     for line in exe_file:
         line = line.strip()
@@ -31,5 +34,14 @@ with open('exercises1.csv') as exe_file:
         exercise_info[id] = []
         for exercise in parts[1: ]:
             exercise_info[id].append(int(exercise))
-print(exercise_info)
+
+
+# Student and total number of exercise data
+for id, name in students.items():
+    if id in exercise_info:
+        total_exe = 0
+        for number in exercise_info[id]:
+            total_exe += number
+
+        print(f'{name} {total_exe}')
     
