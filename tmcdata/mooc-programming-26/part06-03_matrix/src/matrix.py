@@ -20,7 +20,6 @@ def read_file():
 def row_sums():
     results_of_each_row = []
     
-    
     data = read_file()
     for row in data:
         accummulator = 0
@@ -40,4 +39,27 @@ def matrix_sum():
 
     return results
 
-print(matrix_sum())
+
+# max element in matrix
+
+def matrix_max():
+    data = read_file()
+
+    largest = data[0][0]
+
+    for row in data:
+        for number in row:
+            if number > largest:
+                largest = number
+    return largest
+
+
+if __name__ == "__main__":
+    print(f'Data: {read_file()}')
+    print()
+    print(f"Sum of matrix: {matrix_sum()}")
+    print()
+    print(f'Sum of each row: {row_sums()}')
+    print()
+    print(f'Maximum number: {matrix_max()}')
+    
