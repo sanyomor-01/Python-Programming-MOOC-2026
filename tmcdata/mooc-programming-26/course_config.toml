@@ -271,3 +271,7 @@ checksum = "bf55476f14ca68c4c33d0344649a5c96"
 [exercises.part06-03_matrix]
 id = 306437
 checksum = "bf9f8686347d7e7ef5edea699279d1f8"
+
+[exercises.part06-04_course_grading_part_1]
+id = 306440
+checksum = "c538a7b29e21a1a1f62fa3b2ce7c6586"

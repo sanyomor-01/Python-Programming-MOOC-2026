@@ -61,5 +61,5 @@ if __name__ == "__main__":
     print()
     print(f'Sum of each row: {row_sums()}')
     print()
-    print(f'Maximum number: {matrix_max()}')
+    print(f'Maximum number in matrix: {matrix_sum()}')
     
